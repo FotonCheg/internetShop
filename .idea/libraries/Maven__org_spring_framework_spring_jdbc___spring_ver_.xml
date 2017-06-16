@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spring-framework:spring-jdbc:${spring.ver}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/spring-jdbc/${spring.ver}/spring-jdbc-${spring.ver}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/spring-jdbc/${spring.ver}/spring-jdbc-${spring.ver}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/spring-jdbc/${spring.ver}/spring-jdbc-${spring.ver}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.spring-framework:context-support:${spring.ver}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/context-support/${spring.ver}/context-support-${spring.ver}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/context-support/${spring.ver}/context-support-${spring.ver}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spring-framework/context-support/${spring.ver}/context-support-${spring.ver}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
