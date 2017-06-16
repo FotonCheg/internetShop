@@ -41,31 +41,7 @@
       <version>5.1.13</version>
     </dependency>
 
-    <dependency>
-      <groupId>org.spring-framework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>${spring.ver}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.spring-framework</groupId>
-      <artifactId>context-support</artifactId>
-      <version>${spring.ver}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.spring-framework</groupId>
-      <artifactId>spring-tx</artifactId>
-      <version>${spring.ver}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.spring-framework</groupId>
-      <artifactId>spring-jdbc</artifactId>
-      <version>${spring.ver}</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>${spring.ver}</version>
-    </dependency>
+
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
